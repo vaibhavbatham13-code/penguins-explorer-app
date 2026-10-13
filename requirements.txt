@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-matlplotlib==3.9.2
+matplotlib
 seaborn
